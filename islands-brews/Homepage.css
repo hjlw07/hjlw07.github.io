@@ -134,9 +134,10 @@ nav a:hover {
 
 /* You'll add Flexbox styles here in Week 11 */
 .card-container {
-
+  display: "flex";              /* Use "flex" */
+  flex-wrap: "wrap";            /* Use "wrap" so cards move to next row */
+  gap: 20px;                  /* Use 20px for space between cards */
 }
-
 .card {
   background-color: #fff;
   border-radius: 8px;

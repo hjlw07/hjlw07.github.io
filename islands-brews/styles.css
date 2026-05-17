@@ -166,9 +166,9 @@ main {
 
 /* Step 10: Space between sections */
 section {
-  margin-bottom: ___;              /* Use 32px for clear separation between sections */
-  padding: ___;                    /* Use 20px for space inside each section */
-  border-radius: ___;              /* Use 8px for slightly rounded corners */
+  margin-bottom: 32px;              /* Use 32px for clear separation between sections */
+  padding: 20px;                    /* Use 20px for space inside each section */
+  border-radius: 8px;              /* Use 8px for slightly rounded corners */
 }
 
 /* Step 11: Style the page intro */
@@ -219,7 +219,7 @@ footer {
   background-color: #3E2723;          /* Use Dark Roast: #3E2723 */
   color: #FFFAF0;                      /* Use Cream: #FFFAF0 */
   text-align: "center";                 /* Use "center" */
-  padding: 24px;                    /* Use 24px */s
+  padding: 24px;                    /* Use 24px */
 }
 
 /* Step 16: Style the address in the footer */
